@@ -1,3 +1,5 @@
+Score: 10/10 
+
 class TrainGraph:
     """
     Class description: 
